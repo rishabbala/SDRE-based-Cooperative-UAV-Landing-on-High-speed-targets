@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: new-aiaa.bst
+White space in argument---line 26 of file main.aux
+ : \citation{herisse2012landing
+ :                              saripalli2006landing serra2016landing ghommam2017autonomous falanga2017vision vlantis2015quadrotor li2019fast jfr2 Araar2017 campoy2 campoy1 7139490 drones2040034}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+Warning--I didn't find a database entry for ""
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+You've used 6 entries,
+            3317 wiz_defined-function locations,
+            719 strings with 6634 characters,
+and the built_in function-call counts, 4509 in all, are:
+= -- 360
+> -- 138
+< -- 17
++ -- 54
+- -- 43
+* -- 366
+:= -- 569
+add.period$ -- 12
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 7
+cite$ -- 6
+duplicate$ -- 376
+empty$ -- 358
+format.name$ -- 62
+if$ -- 949
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 62
+newline$ -- 28
+num.names$ -- 18
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 168
+stack$ -- 0
+substring$ -- 320
+swap$ -- 259
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 0
+while$ -- 30
+width$ -- 0
+write$ -- 75
+(There was 1 error message)

@@ -1,0 +1,1635 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7445) (preloaded format=pdflatex 2020.5.20)  8 JUN 2020 15:08
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> (new-aiaa.cls
+Document Class: new-aiaa 2018/01/10, v1.2
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\MT@toks=\toks18
+\MT@count=\count175
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen135
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count176
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2020/03/02 v1.625
+
+`newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe)
+(/home/rishab/.miktex/texmfs/install/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen136
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/rishab/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count177
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count178
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
+ 112.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 112.
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+\ntxt@cntz=\count179
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/05/02 v1.626
+
+`newtxmath' v1.626, 2020/05/02 Math macros based originally on txfonts (msharpe
+) (/home/rishab/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/home/rishab/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen137
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count183
+\DOTSCASE@=\count184
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks22
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks23
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/home/rishab/.miktex/texmfs/install/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count192
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/binhex/binhex.tex)
+\tx@Isdigit=\count193
+\tx@IsAlNum=\count194
+\tx@tA=\toks26
+\tx@tB=\toks27
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 320.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 320.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 320.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 321.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 329.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 329.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 329.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 330.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 331.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 333.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 333.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 333.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 334.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 335.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 336.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 425.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 426.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 479.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 500.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 500.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 500.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 500.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 500.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 501.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 524.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 545.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 558.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 5
+58.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 558.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 558
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 558.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 559.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 573.
+\tx@sbptoks=\toks28
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 799.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 801.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 803.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 807.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 808.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 854.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 879.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 880.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1943.
+\ntx@numstart=\count195
+\ntx@UCstart=\count196
+\ntx@lcstart=\count197
+\ntx@tmpc=\count198
+\ntx@imath=\count199
+\ntx@jmath=\count266
+LaTeX Info: Redefining \Bbbk on input line 2452.
+LaTeX Info: Redefining \not on input line 2601.
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks29
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/rishab/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen154
+\enit@toks=\toks30
+\enit@inbox=\box47
+\enit@count@id=\count270
+\enitdp@description=\count271
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks31
+\footnotemargin=\dimen155
+\c@pp@next@reset=\count272
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip54
+\absleftindent=\skip55
+\absrightindent=\skip56
+\absparindent=\skip57
+\absparsep=\skip58
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip59
+\@affilsep=\skip60
+\c@Maxaffil=\count273
+\c@authors=\count274
+\c@affil=\count275
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box48
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks32
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count276
+)
+\c@DefaultLines=\count277
+\c@DefaultDepth=\count278
+\DefaultFindent=\dimen161
+\DefaultNindent=\dimen162
+\DefaultSlope=\dimen163
+\DiscardVskip=\dimen164
+\L@lbox=\box49
+\L@tbox=\box50
+\c@L@lines=\count279
+\c@L@depth=\count280
+\L@Pindent=\dimen165
+\L@Findent=\dimen166
+\L@Nindent=\dimen167
+\L@lraise=\dimen168
+\L@first=\dimen169
+\L@next=\dimen170
+\L@slope=\dimen171
+\L@height=\dimen172
+\L@novskip=\dimen173
+\L@target@ht=\dimen174
+\L@target@dp=\dimen175
+\L@target@tht=\dimen176
+\LettrineWidth=\dimen177
+\LettrineHeight=\dimen178
+\LettrineDepth=\dimen179
+\Llist@everypar=\toks33
+
+Loading lettrine.cfg
+(/home/rishab/.miktex/texmfs/install/tex/latex/lettrine/lettrine.cfg))
+(/home/rishab/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen180
+\captionmargin@=\dimen181
+\captionwidth=\dimen182
+\caption@tempdima=\dimen183
+\caption@indent=\dimen184
+\caption@parindent=\dimen185
+\caption@hangindent=\dimen186
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/quoting/quoting.sty
+Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+\quo@toppartop=\skip63
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip64
+\bibsep=\skip65
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count283
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/home/rishab/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen187
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count286
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count287
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen188
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count288
+\Field@Width=\dimen189
+\Fld@charsize=\dimen190
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count292
+\c@bookmark@seq@number=\count293
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.st
+y
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip66
+) (/home/rishab/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen191
+\Gin@req@width=\dimen192
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.t
+ex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen193
+\pgfutil@tempdimb=\dimen194
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-l
+ists.tex))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.de
+f
+\pgfutil@abb=\box51
+ (/home/rishab/.miktex/texmfs/install/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.te
+x
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.
+code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen195
+\pgf@y=\dimen196
+\pgf@xa=\dimen197
+\pgf@ya=\dimen198
+\pgf@xb=\dimen199
+\pgf@yb=\dimen256
+\pgf@xc=\dimen257
+\pgf@yc=\dimen258
+\pgf@xd=\dimen259
+\pgf@yd=\dimen260
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count298
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.
+def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-
+pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath
+.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol
+.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/home/rishab/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.te
+x
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.te
+x
+\pgfmath@dimen=\dimen261
+\pgfmath@count=\count301
+\pgfmath@box=\box52
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code
+.tex
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basi
+c.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trig
+onometric.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.rand
+om.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comp
+arison.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base
+.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.roun
+d.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc
+.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.inte
+gerarithmetics.code.tex)))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count302
+)) (/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.c
+ode.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen262
+\pgf@picmaxx=\dimen263
+\pgf@picminy=\dimen264
+\pgf@picmaxy=\dimen265
+\pgf@pathminx=\dimen266
+\pgf@pathmaxx=\dimen267
+\pgf@pathminy=\dimen268
+\pgf@pathmaxy=\dimen269
+\pgf@xx=\dimen270
+\pgf@xy=\dimen271
+\pgf@yx=\dimen272
+\pgf@yy=\dimen273
+\pgf@zx=\dimen274
+\pgf@zy=\dimen275
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathcons
+truct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen276
+\pgf@path@lasty=\dimen277
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusag
+e.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen278
+\pgf@shorten@start@additional=\dimen279
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.c
+ode.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count303
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphics
+tate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen280
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransfor
+mations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen281
+\pgf@pt@y=\dimen282
+\pgf@pt@temp=\dimen283
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.co
+de.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.
+code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathproc
+essing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.c
+ode.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen284
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.co
+de.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen285
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.co
+de.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal
+.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box56
+))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.c
+ode.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretranspar
+ency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns
+.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code
+.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.co
+de.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box57
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code
+.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versio
+n-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen286
+\pgf@nodesepend=\dimen287
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versio
+n-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(/home/rishab/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+)) (/home/rishab/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen288
+\pgffor@skip=\dimen289
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.co
+de.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotha
+ndlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count306
+\pgfplotmarksize=\dimen290
+)
+\tikz@lastx=\dimen291
+\tikz@lasty=\dimen292
+\tikz@lastxsaved=\dimen293
+\tikz@lastysaved=\dimen294
+\tikz@lastmovetox=\dimen295
+\tikz@lastmovetoy=\dimen296
+\tikzleveldistance=\dimen297
+\tikzsiblingdistance=\dimen298
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.co
+de.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
+)
+\tikz@expandcount=\count314
+
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librari
+es/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/home/rishab/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librari
+es/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count315
+\float@exts=\toks46
+\float@box=\box62
+\@float@everytoks=\toks47
+\@floatcapt=\box63
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-05-15 L3 programming layer (loader) 
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count316
+\l__pdf_internal_box=\box64
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+) (/home/rishab/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count317
+\calc@Bcount=\count318
+\calc@Adimen=\dimen299
+\calc@Bdimen=\dimen300
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count319
+\calc@Cskip=\skip69
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/chemgreek/chemgreek.sty
+(/home/rishab/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse-generic
+.tex
+\l__xparse_current_arg_int=\count320
+\g__xparse_grabber_int=\count321
+\l__xparse_m_args_int=\count322
+\l__xparse_v_nesting_int=\count323
+))
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count324
+\g__chemgreek_tmpa_int=\count325
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count326
+\__mhchem_arrow_extPgfLength_skip=\skip70
+\mhchem@minispace@tmp=\skip71
+\mhchem@minibackspace@tmp=\skip72
+\mhchem@bondwidth=\skip73
+\mhchem@bondheight=\skip74
+\mhchem@smallbondwidth@tmpA=\skip75
+\mhchem@smallbondwidth@tmpB=\skip76
+\mhchem@smallbondwidth=\skip77
+\mhchem@bondtmp@minussidebearingleft=\skip78
+\mhchem@bondtmp@minussidebearingright=\skip79
+\l__mhchem_option_version_int=\count327
+\mhchem@option@minusmathsidebearingleft=\dimen301
+\mhchem@option@minusmathsidebearingright=\dimen302
+\mhchem@option@minustextsidebearingleft=\dimen303
+\mhchem@option@minustextsidebearingright=\dimen304
+) (/home/rishab/.miktex/texmfs/install/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen305
+\ar@mcellbox=\box65
+\extrarowheight=\dimen306
+\NC@list=\toks48
+\extratabsurround=\skip80
+\backup@length=\skip81
+\ar@cellbox=\box66
+)
+\l__siunitx_tmp_box=\box67
+\l__siunitx_tmp_dim=\dimen307
+\l__siunitx_tmp_int=\count328
+\l__siunitx_number_mantissa_length_int=\count329
+\l__siunitx_number_uncert_length_int=\count330
+\l__siunitx_round_int=\count331
+\l__siunitx_process_decimal_int=\count332
+\l__siunitx_process_uncertainty_int=\count333
+\l__siunitx_process_fixed_int=\count334
+\l__siunitx_process_integer_min_int=\count335
+\l__siunitx_process_precision_int=\count336
+\l__siunitx_group_min_int=\count337
+\l__siunitx_angle_marker_box=\box68
+\l__siunitx_angle_unit_box=\box69
+\l__siunitx_angle_marker_dim=\dimen308
+\l__siunitx_angle_unit_dim=\dimen309
+\l__siunitx_unit_int=\count338
+\l__siunitx_unit_denominator_int=\count339
+\l__siunitx_unit_numerator_int=\count340
+\l__siunitx_unit_prefix_int=\count341
+\l__siunitx_unit_prefix_base_int=\count342
+\l__siunitx_unit_prefix_gram_int=\count343
+\l__siunitx_number_product_int=\count344
+\c__siunitx_one_fill_skip=\skip82
+\l__siunitx_table_unit_align_skip=\skip83
+\l__siunitx_table_exponent_dim=\dimen310
+\l__siunitx_table_integer_dim=\dimen311
+\l__siunitx_table_mantissa_dim=\dimen312
+\l__siunitx_table_marker_dim=\dimen313
+\l__siunitx_table_result_dim=\dimen314
+\l__siunitx_table_uncert_dim=\dimen315
+\l__siunitx_table_fill_pre_dim=\dimen316
+\l__siunitx_table_fill_post_dim=\dimen317
+\l__siunitx_table_fill_mid_dim=\dimen318
+\l__siunitx_table_pre_box=\box70
+\l__siunitx_table_post_box=\box71
+\l__siunitx_table_mantissa_box=\box72
+\l__siunitx_table_result_box=\box73
+\l__siunitx_table_number_align_skip=\skip84
+\l__siunitx_table_text_align_skip=\skip85
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(/home/rishab/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count345
+\c@subtable=\count346
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip86
+\LTright=\skip87
+\LTpre=\skip88
+\LTpost=\skip89
+\LTchunksize=\count347
+\LTcapwidth=\dimen319
+\LT@head=\box74
+\LT@firsthead=\box75
+\LT@foot=\box76
+\LT@lastfoot=\box77
+\LT@cols=\count348
+\LT@rows=\count349
+\c@LT@tables=\count350
+\c@LT@chunks=\count351
+\LT@p@ftn=\toks49
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen320
+\TX@old@table=\dimen321
+\TX@old@col=\dimen322
+\TX@target=\dimen323
+\TX@delta=\dimen324
+\TX@cols=\count352
+\TX@ftn=\toks50
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 26.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 26.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 26.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 26.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \microtypecontext on input line 26.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 26.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\c@mv@tabular=\count353
+\c@mv@boldtabular=\count354
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(/home/rishab/.miktex/texmfs/install/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box78
+Package hyperref Info: Link coloring OFF on input line 26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/rishab/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.
+sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count355
+)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+(/home/rishab/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count356
+\scratchdimen=\dimen325
+\scratchbox=\box79
+\nofMPsegments=\count357
+\nofMParguments=\count358
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count359
+\MPscratchDim=\dimen326
+\MPnumerator=\count360
+\makeMPintoPDFobject=\count361
+\everyMPtoPDFconversion=\toks52
+) (/home/rishab/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) ABD: EveryShipout initializing macros
+
+Package chemgreek Info: Activating mapping `newtx' on line 26.
+
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/translator/translator-basic-dict
+ionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/home/rishab/.miktex/texmfs/install/tex/latex/siunitx/siunitx-abbreviations.cf
+g
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 26.
+ (/home/rishab/.miktex/texmfs/install/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 26.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 26.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 26.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 26
+.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 26.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `qhv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 6.56995pt on input line 26.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 4.94997pt on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
+26.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 26.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ntxtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 7.3pt on input line 26.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 5.5pt on input line 26.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 29.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 29.
+
+(/home/rishab/.miktex/texmfs/install/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.2pt on input line 29.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 29.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 8.0pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 6.2pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.2pt on input line 29.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.2pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 29.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 30.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+ [1
+
+{/home/rishab/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+
+Package natbib Warning: Citation `herisse2012landing saripalli2006landing serra
+2016landing ghommam2017autonomous falanga2017vision vlantis2015quadrotor li2019
+fast jfr2 Araar2017 campoy2 campoy1 7139490 drones2040034' on page 2 undefined 
+on input line 103.
+
+<drone.png, id=112, 1966.34625pt x 902.37125pt>
+File: drone.png Graphic file (type png)
+<use drone.png>
+Package pdftex.def Info: drone.png  used on input line 130.
+(pdftex.def)             Requested size: 245.79268pt x 112.79613pt.
+[2]
+Overfull \hbox (11.08525pt too wide) detected at line 162
+[]\OML/ntxmi/m/it/10 R[] \U/ntxmia/m/it/10 = []
+ []
+
+<archi.png, id=130, 911.405pt x 294.09875pt>
+File: archi.png Graphic file (type png)
+<use archi.png>
+Package pdftex.def Info: archi.png  used on input line 174.
+(pdftex.def)             Requested size: 318.99652pt x 102.9361pt.
+[3 <./drone.png> <./archi.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+[4]
+
+Package natbib Warning: Citation `cimensdrestability' on page 5 undefined on in
+put line 289.
+
+[5]
+<target2.jpg, id=174, 501.875pt x 501.875pt>
+File: target2.jpg Graphic file (type jpg)
+<use target2.jpg>
+Package pdftex.def Info: target2.jpg  used on input line 368.
+(pdftex.def)             Requested size: 117.43875pt x 117.43521pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 9.0pt on input line 369.
+<mask.png, id=175, 376.40625pt x 376.40625pt>
+File: mask.png Graphic file (type png)
+<use mask.png>
+Package pdftex.def Info: mask.png  used on input line 373.
+(pdftex.def)             Requested size: 117.43875pt x 117.43712pt.
+<detect.png, id=176, 376.40625pt x 376.40625pt>
+File: detect.png Graphic file (type png)
+<use detect.png>
+Package pdftex.def Info: detect.png  used on input line 378.
+(pdftex.def)             Requested size: 117.43875pt x 117.43712pt.
+ [6] [7 <./target2.jpg> <./mask.png (PNG copy)> <./detect.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 487.
+
+[8]
+<position.png, id=216, 509.5035pt x 260.172pt>
+File: position.png Graphic file (type png)
+<use position.png>
+Package pdftex.def Info: position.png  used on input line 518.
+(pdftex.def)             Requested size: 203.79778pt x 104.06694pt.
+<velocity.png, id=217, 509.5035pt x 260.172pt>
+File: velocity.png Graphic file (type png)
+<use velocity.png>
+Package pdftex.def Info: velocity.png  used on input line 525.
+(pdftex.def)             Requested size: 203.79778pt x 104.06694pt.
+ [9 <./position.png> <./velocity.png>]
+<mixed_model.png, id=236, 473.77pt x 191.71625pt>
+File: mixed_model.png Graphic file (type png)
+<use mixed_model.png>
+Package pdftex.def Info: mixed_model.png  used on input line 544.
+(pdftex.def)             Requested size: 234.8775pt x 95.04463pt.
+<twist_multi_coord.png, id=237, 462.528pt x 346.896pt>
+File: twist_multi_coord.png Graphic file (type png)
+<use twist_multi_coord.png>
+Package pdftex.def Info: twist_multi_coord.png  used on input line 549.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 543--553
+[]$[]$|  $[]$|  
+ []
+
+<helix.png, id=238, 462.528pt x 346.896pt>
+File: helix.png Graphic file (type png)
+<use helix.png>
+Package pdftex.def Info: helix.png  used on input line 568.
+(pdftex.def)             Requested size: 230.18253pt x 172.63771pt.
+<helix_dist.png, id=239, 462.528pt x 346.896pt>
+File: helix_dist.png Graphic file (type png)
+<use helix_dist.png>
+Package pdftex.def Info: helix_dist.png  used on input line 569.
+(pdftex.def)             Requested size: 230.18253pt x 172.63771pt.
+[10 <./mixed_model.png> <./twist_multi_coord.png>]
+<baseline1.png, id=248, 462.528pt x 346.896pt>
+File: baseline1.png Graphic file (type png)
+<use baseline1.png>
+Package pdftex.def Info: baseline1.png  used on input line 577.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<baseline3.png, id=249, 462.528pt x 346.896pt>
+File: baseline3.png Graphic file (type png)
+<use baseline3.png>
+Package pdftex.def Info: baseline3.png  used on input line 582.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<curve10.png, id=250, 462.528pt x 346.896pt>
+File: curve10.png Graphic file (type png)
+<use curve10.png>
+Package pdftex.def Info: curve10.png  used on input line 588.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<step_curve.png, id=251, 462.528pt x 346.896pt>
+File: step_curve.png Graphic file (type png)
+<use step_curve.png>
+Package pdftex.def Info: step_curve.png  used on input line 593.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<oscillate.png, id=252, 462.528pt x 346.896pt>
+File: oscillate.png Graphic file (type png)
+<use oscillate.png>
+Package pdftex.def Info: oscillate.png  used on input line 599.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<fail.png, id=253, 462.528pt x 346.896pt>
+File: fail.png Graphic file (type png)
+<use fail.png>
+Package pdftex.def Info: fail.png  used on input line 604.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 576--608
+[]$[]$|  $[]$|  
+ []
+
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 576--608
+[]$|  $[]$|  
+ []
+
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 576--608
+[]$|  $[]$|  
+ []
+
+<error_pos_x.png, id=261, 509.5035pt x 260.172pt>
+File: error_pos_x.png Graphic file (type png)
+<use error_pos_x.png>
+Package pdftex.def Info: error_pos_x.png  used on input line 639.
+(pdftex.def)             Requested size: 155.02pt x 79.15582pt.
+<error_pos_z.png, id=262, 509.5035pt x 260.172pt>
+File: error_pos_z.png Graphic file (type png)
+<use error_pos_z.png>
+Package pdftex.def Info: error_pos_z.png  used on input line 644.
+(pdftex.def)             Requested size: 155.02pt x 79.15582pt.
+<error_vel_x.png, id=263, 509.5035pt x 260.172pt>
+File: error_vel_x.png Graphic file (type png)
+<use error_vel_x.png>
+Package pdftex.def Info: error_vel_x.png  used on input line 649.
+(pdftex.def)             Requested size: 155.02pt x 79.15582pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./helix.png> <./helix_dist.png>] [12 <./baseline1.png> <./baseline3.png> <
+./curve10.png> <./step_curve.png> <./oscillate.png> <./fail.png>]
+<vel1.png, id=289, 462.528pt x 346.896pt>
+File: vel1.png Graphic file (type png)
+<use vel1.png>
+Package pdftex.def Info: vel1.png  used on input line 682.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<vel2.png, id=290, 462.528pt x 346.896pt>
+File: vel2.png Graphic file (type png)
+<use vel2.png>
+Package pdftex.def Info: vel2.png  used on input line 687.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<vel3.png, id=291, 462.528pt x 346.896pt>
+File: vel3.png Graphic file (type png)
+<use vel3.png>
+Package pdftex.def Info: vel3.png  used on input line 693.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<vel4.png, id=292, 462.528pt x 346.896pt>
+File: vel4.png Graphic file (type png)
+<use vel4.png>
+Package pdftex.def Info: vel4.png  used on input line 698.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<step_vision.png, id=293, 462.528pt x 346.896pt>
+File: step_vision.png Graphic file (type png)
+<use step_vision.png>
+Package pdftex.def Info: step_vision.png  used on input line 704.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<oscillate_vision.png, id=294, 462.528pt x 346.896pt>
+File: oscillate_vision.png Graphic file (type png)
+<use oscillate_vision.png>
+Package pdftex.def Info: oscillate_vision.png  used on input line 709.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 681--713
+[]$[]$|  $[]$|  
+ []
+
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 681--713
+[]$|  $[]$|  
+ []
+
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 681--713
+[]$|  $[]$|  
+ []
+
+[13 <./error_pos_x.png> <./error_pos_z.png> <./error_vel_x.png>] [14 <./vel1.pn
+g> <./vel2.png> <./vel3.png> <./vel4.png> <./step_vision.png> <./oscillate_visi
+on.png>]
+<square_coord.png, id=316, 462.528pt x 346.896pt>
+File: square_coord.png Graphic file (type png)
+<use square_coord.png>
+Package pdftex.def Info: square_coord.png  used on input line 722.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<tight_square_coord.png, id=317, 462.528pt x 346.896pt>
+File: tight_square_coord.png Graphic file (type png)
+<use tight_square_coord.png>
+Package pdftex.def Info: tight_square_coord.png  used on input line 727.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<oscillate_coord.png, id=318, 462.528pt x 346.896pt>
+File: oscillate_coord.png Graphic file (type png)
+<use oscillate_coord.png>
+Package pdftex.def Info: oscillate_coord.png  used on input line 733.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<oscillate_coord_3.png, id=319, 462.528pt x 346.896pt>
+File: oscillate_coord_3.png Graphic file (type png)
+<use oscillate_coord_3.png>
+Package pdftex.def Info: oscillate_coord_3.png  used on input line 738.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 721--743
+[]$[]$|  $[]$|  
+ []
+
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 721--743
+[]$|  $[]$|  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--743
+
+ []
+
+[15 <./square_coord.png> <./tight_square_coord.png> <./oscillate_coord.png> <./
+oscillate_coord_3.png>]
+<straight_multi.png, id=334, 462.528pt x 346.896pt>
+File: straight_multi.png Graphic file (type png)
+<use straight_multi.png>
+Package pdftex.def Info: straight_multi.png  used on input line 752.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<step_multi.png, id=335, 462.528pt x 346.896pt>
+File: step_multi.png Graphic file (type png)
+<use step_multi.png>
+Package pdftex.def Info: step_multi.png  used on input line 757.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 751--761
+[]$[]$|  $[]$|  
+ []
+
+<tight_square_multi_coord.png, id=340, 462.528pt x 346.896pt>
+File: tight_square_multi_coord.png Graphic file (type png)
+<use tight_square_multi_coord.png>
+Package pdftex.def Info: tight_square_multi_coord.png  used on input line 769.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+<oscillate_multi_coord.png, id=341, 462.528pt x 346.896pt>
+File: oscillate_multi_coord.png Graphic file (type png)
+<use oscillate_multi_coord.png>
+Package pdftex.def Info: oscillate_multi_coord.png  used on input line 774.
+(pdftex.def)             Requested size: 234.8775pt x 176.15768pt.
+
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 768--778
+[]$[]$|  $[]$|  
+ []
+
+[16 <./straight_multi.png> <./step_multi.png> <./tight_square_multi_coord.png> 
+<./oscillate_multi_coord.png>] (main.bbl
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 15.
+)
+
+Package natbib Warning: There were undefined citations.
+
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 789.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 789.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 789.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 789.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 71AD924A8634C1675E27DCCE62B0A209;1470.
+ ) 
+Here is how much of TeX's memory you used:
+ 28417 strings out of 480800
+ 538953 string characters out of 2901924
+ 816221 words of memory out of 3000000
+ 43560 multiletter control sequences out of 15000+200000
+ 623405 words of font info for 194 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,15n,100p,1821b,898s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/rishab/.miktex/texmfs/install/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/
+home/rishab/.miktex/texmfs/install/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/home/
+rishab/.miktex/texmfs/install/fonts/enc/dvips/tex-gyre/q-ts1.enc}</home/rishab/
+.miktex/texmfs/install/fonts/type1/public/newtx/NewTXMI.pfb></home/rishab/.mikt
+ex/texmfs/install/fonts/type1/public/newtx/NewTXMI5.pfb></home/rishab/.miktex/t
+exmfs/install/fonts/type1/public/newtx/NewTXMI7.pfb></home/rishab/.miktex/texmf
+s/install/fonts/type1/public/tex-gyre/qtmr.pfb></home/rishab/.miktex/texmfs/ins
+tall/fonts/type1/public/newtx/txexas.pfb></home/rishab/.miktex/texmfs/install/f
+onts/type1/public/newtx/txexs.pfb></home/rishab/.miktex/texmfs/install/fonts/ty
+pe1/public/newtx/txmiaX.pfb></home/rishab/.miktex/texmfs/install/fonts/type1/pu
+blic/newtx/txsys.pfb></home/rishab/.miktex/texmfs/install/fonts/type1/public/ne
+wtx/ztmb.pfb></home/rishab/.miktex/texmfs/install/fonts/type1/public/newtx/ztmr
+.pfb></home/rishab/.miktex/texmfs/install/fonts/type1/public/newtx/ztmri.pfb>
+Output written on main.pdf (17 pages, 2156955 bytes).
+PDF statistics:
+ 427 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
+ 35679 words of extra memory for PDF output out of 35830 (max. 10000000)
+

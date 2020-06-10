@@ -1,0 +1,45 @@
+\begin{thebibliography}{6}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{\discretionary{}{}{}https://doi.org/#1}\else
+  \providecommand{\doi}[1]{\discretionary{}{}{}\urlstyle{rm}\url{https://doi.org/#1}}\fi
+
+\bibitem[{Maini et~al.(2019)Maini, Sundar, Singh, Rathinam, and
+  Sujit}]{maini2019cooperative}
+Maini, P., Sundar, K., Singh, M., Rathinam, S., and Sujit, P.,
+  \enquote{Cooperative Aerial--Ground Vehicle Route Planning With Fuel
+  Constraints for Coverage Applications,} \emph{IEEE Transactions on Aerospace
+  and Electronic Systems}, Vol.~55, No.~6, 2019, pp. 3016--3028.
+
+\bibitem[{Mathew et~al.(2015)Mathew, Smith, and Waslander}]{mathew2015planning}
+Mathew, N., Smith, S.~L., and Waslander, S.~L., \enquote{Planning paths for
+  package delivery in heterogeneous multirobot teams,} \emph{IEEE Transactions
+  on Automation Science and Engineering}, Vol.~12, No.~4, 2015, pp. 1298--1308.
+
+\bibitem[{Manyam et~al.(2016)Manyam, Casbeer, and Sundar}]{manyam2016path}
+Manyam, S.~G., Casbeer, D.~W., and Sundar, K., \enquote{Path planning for
+  cooperative routing of air-ground vehicles,} \emph{2016 American Control
+  Conference (ACC)}, IEEE, 2016, pp. 4630--4635.
+
+\bibitem[{Gautam et~al.(2017)Gautam, Sujit, and
+  Saripalli}]{gautam2017autonomous}
+Gautam, A., Sujit, P., and Saripalli, S., \enquote{Autonomous Quadrotor Landing
+  Using Vision and Pursuit Guidance,} \emph{IFAC-PapersOnLine}, Vol.~50, No.~1,
+  2017, pp. 10501--10506.
+
+\bibitem[{Serra et~al.(2016)Serra, Cunha, Hamel, Cabecinhas, and
+  Silvestre}]{serra2016landing}
+Serra, P., Cunha, R., Hamel, T., Cabecinhas, D., and Silvestre, C.,
+  \enquote{Landing of a quadrotor on a moving target using dynamic image-based
+  visual servo control,} \emph{IEEE Transactions on Robotics}, Vol.~32, No.~6,
+  2016, pp. 1524--1535.
+
+\bibitem[{Ghommam and Saad(2017)}]{ghommam2017autonomous}
+Ghommam, J., and Saad, M., \enquote{Autonomous landing of a quadrotor on a
+  moving platform,} \emph{IEEE Transactions on Aerospace and Electronic
+  Systems}, Vol.~53, No.~3, 2017, pp. 1504--1519.
+
+\end{thebibliography}

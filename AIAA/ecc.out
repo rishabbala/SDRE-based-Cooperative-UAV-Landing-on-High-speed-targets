@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Problem Formulation}{}% 2
+\BOOKMARK [1][-]{section.3}{SDRE Control Law}{}% 3
+\BOOKMARK [1][-]{section.4}{Computing the position of the target}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Computing the Homography matrix}{section.4}% 5
+\BOOKMARK [1][-]{section.5}{Kalman Filter}{}% 6
+\BOOKMARK [1][-]{section.6}{Simulation Results}{}% 7
+\BOOKMARK [2][-]{subsection.6.1}{Simulation Setup}{section.6}% 8
+\BOOKMARK [2][-]{subsection.6.2}{Results}{section.6}% 9
+\BOOKMARK [1][-]{section.7}{Conclusions}{}% 10
