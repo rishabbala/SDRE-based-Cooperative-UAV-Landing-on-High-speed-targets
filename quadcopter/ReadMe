@@ -1,0 +1,1 @@
+Place this file as follows : <your_ws>/src/<this quadcopter folder> and then use catkin_make

@@ -1,0 +1,40 @@
+This is the order of commands for the mission that require to be automated: 
+
+ #launch camera driver
+1) roslaunch pointgrey_camera_driver camera_rqt.launch 
+
+ #start mavros
+2)rosrun mavros mavros_node _fcu_url:=udp://:14550@ _fcu_protocol:=v1.0 
+
+#start detection code
+3) rosrun quadcopter identifier_latest_tamu.py  
+
+#bag file folder setup
+4) create folder for bag file (with date and order of expt on that day : example : 18jul1 18jul2 and so on).
+Odroid doesnt have date/time sync. its date is always wrong thus we cant rely on odroid date for this hence this must be passed on as a command line argument
+
+#change mode from loiter to guided
+5)rosrun mavros mavsys mode -c GUIDED 
+if the mode is changed to GUIDED is successful this command displays an output 
+"Mode changed."
+
+only if such an output is displayed ( which means you should put a condition to check for this start the following command)
+
+#start bag file recording
+6a) cd bag file folder created in step 4
+6b)  /home/odroid/Desktop/bag_new_script.sh   (absolute path of bag file script to be executed)  
+
+#start controller
+7) rosrun test timer_test_vision_vertland_full.py > dump_18jul1.txt    (name of the dumpfile argument same as bag file folder). 
+
+
+##################################################3
+Steps 1,2,3 and 4 is what we would do before takeoff on the ground hence they should be in one shell script.
+
+Then we will takeoff the drone and set camera parameters, once thats done
+we will do step 5 6 and 7 which should be in a seperate shell script. 
+
+We should be able to stop the shell script and restart this in order to restart controller again without landing the drone (which means taking in loiter again putting in guided bag file starting with liek 18jul2 argument and same with controller)
+
+steps 1,2,3,6b) and 7 are the commands/scripts that keep on running throughout the mission unless stopped and also require a second or two to initialise/start . so please keep that in mind.
+

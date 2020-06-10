@@ -1,0 +1,54 @@
+rosservice call /mavros/cmd/arming "value: false"
+rosrun mavros mavsys mode -c GUIDED
+rosrun mavros mavsafety arm
+rosrun mavros mavros_node _fcu_url:=/dev/ttyACM0:115200
+rosrun mavros mavros_node _fcu_url:=udp://0.0.0.0:14550@
+
+rostopic pub -1 /cmd_vel geometry_msgs/Twist -- '[0,0,0]' '[0.0, 0.0, 0.0]'
+rosservice call /mavros/cmd/takeoff 0 0 0 0 20
+rosservice call /mavros/cmd/land 0 0 0 0 0
+
+    roslaunch mavros apm2.launch fcu_url:=udp://localhost:14550@
+    rostopic pub -r 10 /mavros/setpoint_velocity/cmd_vel geometry_msgs/TwistStamped '{header: {stamp: now, frame_id: ""}, twist: {linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}}'
+
+Commands to be executed:
+
+rosrun mavros mavsys mode -c LOITER
+
+rosrun mavros mavsys mode -c GUIDED
+
+rosservice call /mavros/cmd/land 0 0 0 0 0
+
+rostopic pub -r 10 /mavros/setpoint_attitude/cmd_vel geometry_msgs/TwistStamped '{header: {stamp: now, frame_id: ""}, twist: {linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.5}}}'
+
+rostopic pub -r 10 /mavros/setpoint_velocity/cmd_vel geometry_msgs/TwistStamped '{header: {stamp: now, frame_id: ""}, twist: {linear: {x: 0.3, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}}'
+
+rostopic pub -r 10 /mavros/setpoint_velocity/cmd_vel geometry_msgs/TwistStamped '{header: {stamp: now, frame_id: ""}, twist: {linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}}'
+
+ rosrun image_view extract_images _sec_per_frame:=0.2 image:=/camera/image
+
+mavproxy.py –master=/dev/ttyACM0 –baudrate 115200
+
+start sim_vehicle.sh
+mavproxy.py --master tcp:127.0.0.1:5760 --sitl 127.0.0.1:5501 --out 127.0.0.1:14550 --quadcopter --map --console
+then run mavros
+
+
+MAVproxy in windows:
+mavproxy.exe –master=”com3" –baudrate 57600 –out 127.0.0.1:14550
+then connect mission planner on udp at port 14550
+
+rosrun mavros mavsys rate --all 10 
+
+
+
+
+run identifier,locator,pub_local,rosbag,test_guidance
+
+
+ python -c "import cv2; print(cv2.getBuildInformation())"
+
+
+
+
+

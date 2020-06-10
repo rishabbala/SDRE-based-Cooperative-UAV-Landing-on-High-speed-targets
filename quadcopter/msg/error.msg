@@ -1,0 +1,3 @@
+geometry_msgs/Point32 error_pos
+geometry_msgs/Point32 error_vel
+int32 detected

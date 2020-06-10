@@ -1,0 +1,24 @@
+roscore
+rosrun gazebo_ros gazebo worlds/iris_arducopter_runway.world
+##rosrun gazebo_ros gazebo iris_ardupilot.world
+sim_vehicle.py -v ArduCopter -f gazebo-iris -m --mav10 --speedup 100 --console -I0
+sim_vehicle.py -v ArduCopter -f gazebo-iris -m --mav10 --speedup 100 --console -I1
+sim_vehicle.py -v APMrover2 -f gazebo-rover -m --mav10 --speedup 100 --console -I4
+source /opt/ros/melodic/setup.bash
+roslaunch mavros two_bot.launch
+cd catkin_ws/
+source devel/setup.bash
+rosrun quadcopter blob.py
+rosrun quadcopter kalman_filter_cam.py
+rosrun quadcopter sdre_gazebo.py
+
+
+###     Please take care for camera the horizontal fov is given and vertical is calculated by gazebo. all angles used in transform are assuming equal fov. change if necessary
+rosrun mavros mavsys -n drone/mavros rate --all 50
+rosparam set use_sim_time false
+param set ARMING_CHECK 1
+
+
+##opt
+rosrun quadcopter graph.py
+rqt_plot /rover/pose/pose/position/x
